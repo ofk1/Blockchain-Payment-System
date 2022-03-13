@@ -1,2 +1,2 @@
-# Decentralized-Application
-Merkezi olmayan uygulama geliştirme
+# Blockchain Ödeme Sistemi
+Blockchain ile ödeme sistemi geliştirme projesi
