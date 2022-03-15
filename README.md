@@ -9,3 +9,7 @@
 
 
 -  Ödeme sisteminin yapısını özetlemek gerekirse, Solidity dili ile yazılmış olan Etherium kullanılıyor. Akıllı sözleşmeler ve kriptografik imza için Javascript dili için kullanılıyor. İlerleyen dönemde farklı eklenti veya özellikler için güncellemeler yapılabilir. Geleneksel ödeme yöntemi ve geliştirilen **Blockchain ile Ödeme Sistemi** **_UML Diyagramları_** ile açıklanmıştır.
+
+*TAB*
+*TAB*
+*TAB*
