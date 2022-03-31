@@ -12,11 +12,16 @@
 
 
 <img width="729" alt="gelenekselbanka" src="https://user-images.githubusercontent.com/70507277/158343074-9b705ca9-84cd-488a-946d-51421a3112a3.png">
+
 Geleneksel bankacılık sistemi bu diyagramda gösterilmiştir.
 
 ![yaptığm-use-case](https://user-images.githubusercontent.com/70507277/158365165-c379cf66-8b17-446d-84ad-379cb69ddb87.jpg)
 
 Örnek blockchain sistemi bu diyagramda gösterilmiştir.
+
+
+
+
 
 
 
