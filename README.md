@@ -19,6 +19,27 @@ Geleneksel bankacılık sistemi bu diyagramda gösterilmiştir.
 
 Örnek blockchain sistemi bu diyagramda gösterilmiştir.
 
+# proje-planlama-solo
+
+***YAPILACAKLAR***
+1. Use case diyagramı oluşturma
+2. İmza oluşturma ve Doğrulama  
+3. Bir ödeme kanalı açmak ve Ödeme yapmak
+4. Ödeme kanalı sonlandırmak
+5. Ödemeleri onaylama
+ 
+ 
+ ***KONTROL LİSTESİ***
+ 
+ [x] Use case diyagramı oluşturma - 17.03.2022
+ 
+ [ ] İmza oluşturma ve Doğrulama - 10.04.2022
+    
+ [ ] Ödeme kanalı açmak ve Ödeme yapmak - 17.04.2022
+ 
+ [ ] Ödeme kanalını sonlandırmak - 24.04.2022
+ 
+ [ ] Ödemeleri onaylama - 01.05.2022
 
 
 
