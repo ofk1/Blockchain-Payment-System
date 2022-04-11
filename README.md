@@ -33,13 +33,13 @@ Geleneksel bankacılık sistemi bu diyagramda gösterilmiştir.
  
  [x] Use case diyagramı oluşturma - 17.03.2022
  
- [ ] İmza oluşturma ve Doğrulama - 10.04.2022
+ [ ] İmza oluşturma ve Doğrulama - 15.04.2022
     
- [ ] Ödeme kanalı açmak ve Ödeme yapmak - 17.04.2022
+ [ ] Ödeme kanalı açmak ve Ödeme yapmak - 25.04.2022
  
- [ ] Ödeme kanalını sonlandırmak - 24.04.2022
+ [ ] Ödeme kanalını sonlandırmak - 03.05.2022
  
- [ ] Ödemeleri onaylama - 01.05.2022
+ [ ] Ödemeleri onaylama - 13.05.2022
 
 
 
